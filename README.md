@@ -1,12 +1,12 @@
-# Algerian Space Visualizer
+# CesiumJS Space Visualizer
 
-A web platform that allows users to visualize all active orbiting satellites located above Algeria and track them in real-time.
+A web platform that allows users to visualize all active orbiting satellites located above a selected country and track them in real-time.
 
 
 ## List of the project tasks
 
 - [x] Retrieve TLE from CelesTrack
-- [x] Retrieve data of Satellites above Algeria
+- [x] Retrieve data of Satellites above a given country ( exemple : Algeria)
 - [x] Build and host the web platform
 - [ ] Propagate the Satellites trajectories
 
